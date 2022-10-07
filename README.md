@@ -1,4 +1,4 @@
-# Twitter Flight Analysis
+# Twitter Airline Sentiment Analysis
 
 ### Goals and Objectives
 1. Complete data assessment of dataset and outline findings
